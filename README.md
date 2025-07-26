@@ -8,3 +8,4 @@ while(keepAsking == True):
     Age = input("What is your age? ")
     Residence = input("Where do you reside? ")
     break
+    
